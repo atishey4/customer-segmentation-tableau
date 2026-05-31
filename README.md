@@ -2,11 +2,11 @@
 
 ## Download
 
-📥 [Download the Tableau Workbook (.twbx)](./Customer_Segmentation_Dashboard.twbx)
+📥 [Download the Tableau Workbook (.twbx)](./customer%20segmentation%203.twbx)
 
 ## Screenshots
 
-![Customer Segmentation Dashboard](./screenshots/dashboard.png)
+![Customer Segmentation Dashboard](./screenshots/Screenshot%202026-05-31%20134952.png)
 
 ## Overview
 This Tableau project segments customers by demographics and purchase behavior to identify high-value groups and reveal buying patterns that guide targeted marketing and retention strategies.
